@@ -17,7 +17,9 @@
     * Mapped types
         * Modifiers
 
-We'll step through *6* utility types that display a wide range of advanced TypeScript concepts. In each, I'll explain and demonstrate the purpose of the type, and introduce the appropriate concepts to implement the type ourselves. Since this is all live-coding we'll have Intellisense via VSCode. You can follow along in your own editor if you wish - you can clone this repository from git@github.com:Toofifty/lnl-advanced-types.git
+We'll step through *6* utility types that display a wide range of advanced TypeScript concepts. In each, I'll explain and demonstrate the purpose of the type, and introduce the appropriate concepts to implement the type ourselves. Since this is all live-coding we'll have Intellisense via VSCode. You can follow along in your own editor if you wish - you can clone this repository from:
+
+# git@github.com:Toofifty/lnl-advanced-types.git
 
 # Resources
 

@@ -4,6 +4,8 @@
  * - Introduce Mapped Types
  *   - Iteration using `in`
  * - Introduce Parameter Constraints
+ *
+ * @see https://www.typescriptlang.org/docs/handbook/2/mapped-types.html
  */
 
 {

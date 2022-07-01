@@ -4,6 +4,9 @@
  * - Introduce `infer`
  * - Recap `typeof`
  * - Conditional Types
+ *
+ * @see https://www.typescriptlang.org/docs/handbook/2/typeof-types.html
+ * @see https://www.typescriptlang.org/docs/handbook/2/conditional-types.html#inferring-within-conditional-types
  */
 
 {

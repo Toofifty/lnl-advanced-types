@@ -3,6 +3,10 @@
  *
  * - Introduce Type Parameters
  * - Introduce Conditional Types
+ * - Explain Distributive Conditional Types
+ *
+ * @see https://www.typescriptlang.org/docs/handbook/2/generics.html
+ * @see https://www.typescriptlang.org/docs/handbook/2/conditional-types.html
  */
 
 {

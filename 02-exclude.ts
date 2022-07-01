@@ -4,6 +4,8 @@
  * - Type Parameters
  * - Conditional Types
  *   - Test against a type parameter
+ *
+ * @see https://www.typescriptlang.org/docs/handbook/2/conditional-types.html
  */
 
 {

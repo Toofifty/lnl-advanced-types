@@ -3,7 +3,11 @@
  *
  * - Mapped Types
  *   - Adding modifiers
- * - Introduce `keyof` & Index Access
+ * - Introduce `keyof` & Indexed Access Types
+ *
+ * @see https://www.typescriptlang.org/docs/handbook/2/keyof-types.html
+ * @see https://www.typescriptlang.org/docs/handbook/2/mapped-types.html
+ * @see https://www.typescriptlang.org/docs/handbook/2/indexed-access-types.html
  */
 
 {

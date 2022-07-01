@@ -2,7 +2,7 @@
  * Pick<T, K> - From T, pick a set of properties whose keys are in the union K
  *
  * - Mapped Types
- * - `keyof` & Index Access
+ * - `keyof` & Indexed Access Types
  * - Parameter Constraints
  */
 
